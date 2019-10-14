@@ -1,0 +1,10 @@
+{
+  "name": "SENG365-Auction-Site-API",
+  "version": "0.0.1",
+  "main": "node server.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mysql": "^2.13.0"
+  }
+}
